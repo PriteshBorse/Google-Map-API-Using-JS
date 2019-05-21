@@ -2,7 +2,7 @@
 You Have to first add Your API KEY in to the "GoogleMapAPI.html" file, then only you'll be able to see the map and it's features.
 
 
-// NOTE : update your API KEY in <script> Tag-> "key=Your_API_KEY"
+// NOTE : update your API KEY in <script> Tag -> "key=Your_API_KEY"
  
  
  // for the code by google
